@@ -1,3 +1,3 @@
 # 10Print
 
-![GitHub Logo](https://imgur.com/EvsQNmN)
+![GitHub Logo]([Imgur](https://i.imgur.com/EvsQNmN.png))
